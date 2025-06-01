@@ -66,9 +66,6 @@
 
             <div class="contact-social-data">
                 <div class="">
-                    <p class="contact-social-description-1">
-                        Does not send emails
-                    </p>
                     <p class="contact-social-description-2">
                         Write me on my social networks
                     </p>

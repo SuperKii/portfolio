@@ -34,7 +34,7 @@ class ContactController extends Controller
 
         $store = Message::create($validate);
 
-        if ($store != null) {
+        if ($store) {
             return redirect()->route('landingPage', '#contact')->with('success', 'Message send successfully.');
         } else {
             return redirect()->route('landingPage', '#contact')->with('error', 'Message not send (service error).');

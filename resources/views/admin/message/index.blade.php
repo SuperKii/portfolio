@@ -64,7 +64,7 @@
                                                 <td>{{ $ms->subject }}</td>
                                                 <td>{{ $ms->email }}</td>
                                                 <td>
-                                                    <textarea name="" id="" class="form-control" cols="10" rows="1">{{ $ms->message }}</textarea>
+                                                    <textarea name="" id="" class="form-control" cols="10" rows="1" disabled>{{ $ms->message }}</textarea>
                                                 </td>
                                                 <td>
                                                     <div class="row p-2">

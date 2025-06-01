@@ -3,7 +3,7 @@
         <div id="main-menu" class="main-menu collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li class="active">
-                    <a href="/dashboard"><i class='bx bx-home-circle menu-icon'></i></i>Dashboard </a>
+                    <a href="{{route('dashboard')}}"><i class='bx bx-home-circle menu-icon'></i></i>Dashboard </a>
                 </li>
                 <li class="menu-title">Component Landing Page</li><!-- /.menu-title -->
                 <li class="">
