@@ -32,7 +32,7 @@
         <div class="home-info">
             <p class="home-description">
                 Halo! Saya <b> Junior Backend Developer </b> yang fokus membangun aplikasi web efisien dan scalable dengan
-                Laravel. Suka bikin sistem yang rapi, cepat, dan mudah dikembangkan.
+                Laravel.
             </p>
 
             <a href="#about" class="home-scroll">
