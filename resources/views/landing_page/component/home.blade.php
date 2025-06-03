@@ -30,7 +30,7 @@
         </div>
 
         <div class="home-info">
-            <p class="home-description" style="z-index: 10">
+            <p class="home-description">
                 Halo! Saya <b> Junior Backend Developer </b> yang fokus membangun aplikasi web efisien dan scalable dengan
                 Laravel.
             </p>
