@@ -1,14 +1,14 @@
 <header class="header" id="header">
     <nav class="nav container">
         <a href="" class="nav-logo">
-            <span class="nav-logo-circle">{{ $dataBasic->logo }}</span>
-            <span class="nav-logo-name">{{ $dataBasic->home_name }}</span>
+            <span class="nav-logo-circle">R</span>
+            <span class="nav-logo-name">Cookie.</span>
         </a>
 
         <div class="nav-menu" id="nav_menu">
             <span class="nav-title">Menu</span>
 
-            <h3 class="nav-name">{{ $dataBasic->home_name }}</h3>
+            <h3 class="nav-name">Cookie.</h3>
 
             <ul class="nav-list">
                 <li class="nav-item">

@@ -6,7 +6,7 @@
 
         <div class="about-perfil">
             <div class="about-image">
-                <img src="{{ asset('storage/' . $dataBasic->about_image) }}" alt="" class="about-img">
+                <img src="{{ asset('landing/assets/img/image_gw.png') }}" alt="" class="about-img">
 
                 <div class="about-shadow"></div>
 
@@ -18,12 +18,16 @@
 
         <div class="about-info">
             <p class="about-description">
-                {{ $dataBasic->about_description }}
+                Saya seorang <b> Junior Backend Developer </b> dengan minat besar di pengembangan aplikasi web yang
+                efisien dan scalable.
+                Berpengalaman menggunakan Laravel, REST API, dan database, saya suka membangun sistem yang kuat, clean
+                code, dan gampang di-maintain.
+                Selalu terbuka untuk kolaborasi, belajar hal baru, dan berkembang bareng tim.
             </p>
 
             <ul class="about-list">
                 <li class="about-item">
-                    <b>My Skills Are:</b> {{ $dataBasic->about_skill }}
+                    <b>My Skills Are:</b> 'HTML, CSS, JavaScript, Laravel, Mysql & GitHub, PHP.'
                 </li>
             </ul>
 

@@ -1,12 +1,12 @@
 <section class="home section" id="home">
     <div class="home-container container grid">
         <h1 class="home-name">
-            {{ $dataBasic->home_name }}
+            Rochmat Hidayah Rizki.
         </h1>
 
         <div class="home-perfil">
             <div class="home-image">
-                <img src="{{ asset('storage/' . $dataBasic->home_image) }}" alt="image" class="home-img">
+                <img src="{{ asset('landing/assets/img/image_gw.png') }}" alt="image" class="home-img">
                 <div class="home-shadow"></div>
 
                 <img src="{{ asset('landing/assets/img/curved-arrow.svg') }}" alt="" class="home-arrow">
@@ -31,7 +31,8 @@
 
         <div class="home-info">
             <p class="home-description">
-                {{ $dataBasic->home_description }}
+                Halo! Saya <b> Junior Backend Developer </b> yang fokus membangun aplikasi web efisien dan scalable dengan
+                Laravel. Suka bikin sistem yang rapi, cepat, dan mudah dikembangkan.
             </p>
 
             <a href="#about" class="home-scroll">

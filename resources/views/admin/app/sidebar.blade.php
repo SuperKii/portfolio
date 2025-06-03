@@ -5,8 +5,8 @@
                 <li class="active">
                     <a href="{{route('dashboard')}}"><i class='bx bx-home-circle menu-icon'></i></i>Dashboard </a>
                 </li>
-                <li class="menu-title">Component Landing Page</li><!-- /.menu-title -->
-                <li class="">
+                {{-- <li class="menu-title">Component Landing Page</li><!-- /.menu-title --> --}}
+                {{-- <li class="">
                     <a href="{{ route('homeIndex') }}"><i class='bx bx-home-circle menu-icon'></i></i>Home Component</a>
                 </li>
                 <li class="">
@@ -16,7 +16,7 @@
                 <li class="">
                     <a href="{{ route('projectsIndex') }}"><i class='bx bx-home-circle menu-icon'></i></i>Project
                         Component</a>
-                </li>
+                </li> --}}
                 <li class="">
                     <a href="{{ route('indexMessage') }}"><i class='bx bx-home-circle menu-icon'></i></i>Message</a>
                 </li>
