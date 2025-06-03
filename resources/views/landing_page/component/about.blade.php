@@ -27,7 +27,7 @@
 
             <ul class="about-list">
                 <li class="about-item">
-                    <b>My Skills Are:</b> 'HTML, CSS, JavaScript, Laravel, Mysql & GitHub, PHP.'
+                    <b>My Skills Are:</b> HTML, CSS, JavaScript, Laravel, Mysql & GitHub, PHP.
                 </li>
             </ul>
 
